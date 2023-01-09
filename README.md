@@ -1,2 +1,2 @@
 # ProjectX
-Hier findet man den HTML,CSS und das JS File.
+Hier findet man den HTML, CSS und das JS File.
